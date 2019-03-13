@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+
+    <string name="restart_button_text_initially">Start New Game</string>
+    <string name="restart_button_text_in_middle_of_game">Restart Game</string>
+    <string name="ask_restart_game">Do you want to restart the game?</string>
+    <string name="ask_reset_game">Do you want to reset the game?</string>
+
+    <string name="player_1_move">O</string>
+    <string name="player_2_move">X</string>
+
+    <string name="its_a_tie">It\'s a Tie</string>
+    <string name="player1_is_winner">Player1 is winner</string>
+    <string name="player2_is_winner">Player2 is winner</string>
+
+    <string name="player_1_o">Player1 (O) = %d</string>
+    <string name="player_2_x">Player2 (X) = %d</string>
+    <string name="reset_game">Reset Game</string>
+
+
+</resources>
+
